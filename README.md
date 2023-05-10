@@ -7,5 +7,10 @@
 - 根据提供的参数生成艺术提示
 - 将生成的提示复制到剪贴板
 
+## 使用方法
+![mjp](https://github.com/kadaliao/Promptmaker-Alfred-Workflow/assets/7401626/ce8c0a5f-c26d-40cf-b1ed-427fbfcecfa4)
+
+
+
 ## TODO
 - [ ] 增加API调用，支持自定义参数指定
